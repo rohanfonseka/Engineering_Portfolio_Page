@@ -109,6 +109,9 @@ li {
 .width-half {
     width:50%;
 }
+.width-quarter {
+    width:25%;
+}
 .project-pic {
     max-height: 375px;
     max-width: 500px;
