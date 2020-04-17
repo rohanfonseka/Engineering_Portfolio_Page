@@ -1,0 +1,115 @@
+.center {
+    text-align: center;
+}
+.flex {
+    display: flex;
+}
+.txt-sm {
+    font-size: 1.6em;
+}
+.text-lg {
+    font-size: 3em;
+}
+.btn-gray {
+    color: #000000;
+    background-color: #bfbfbf;
+}
+.width-50px {
+    width: 50px;
+}
+.width-200px {
+    max-width: 240px;
+    max-height: 300px;
+}
+.width-400px {
+    max-width:400px;
+}
+.width-500px {
+    width:500px;
+}
+.width-850px {
+    width:850px;
+}
+.width-1200px {
+    width:1200px;
+}
+.text-blue {
+    color: #000099;
+}
+.text-maroon {
+    color: #800000;
+}
+.bk-col-green {
+    background-color: #26d926;
+}
+.bk-col-yellow {
+    background-image: url("https://www.stockvault.net/data/2011/06/03/124529/preview16.jpg");
+}
+.bk-col-red {
+    background-image: url("http://svite-league-apps-content.s3.amazonaws.com/bgimages/wood.jpg");
+    padding: 6px 12px;
+}
+.verticle-spacer-sm {
+    height: 2px;
+}
+.horizontal-spacer-sm {
+    width: 2px;
+}
+body {
+    background-image: url("http://www.pixeden.com/media/k2/galleries/220/005-wood-melamine-subttle-pattern-background-pat.jpg");
+}
+.txt-white {
+    color: white;
+}
+.verticle-spacer-md {
+    height: 10px;
+}
+.verticle-spacer-lg {
+    height: 50px;
+}
+.verticle-spacer-30px {
+    height: 30px;
+}
+.horizontal-spacer-md {
+    width: 30px;
+}
+footer {
+    margin-top: 30px;
+}
+.curved {
+    border-radius: 4px;
+}
+.txt-black {
+    color: black;
+}
+li {
+    color: black;
+}
+.fancy-font {
+    font-family: times;
+}
+.h-stretch {
+    width: 100%;
+}
+.v-stretch {
+    height: 100%;
+}
+.resume {
+    height: 1150px;
+}
+.h1 {
+    color: white;
+}
+.verticle-spacer-huge {
+    height: 150px;
+}
+.height-half {
+    height: 50%;
+}
+.width-half {
+    width:50%;
+}
+.project-pic {
+    max-height: 375px;
+    max-width: 500px;
+}
